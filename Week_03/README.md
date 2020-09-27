@@ -1,5 +1,6 @@
 这周的作业难度较大，信念差一点崩塌，不过静下来分析大牛的代码，收获良多，也有一部分原因是知识储备不足造成的。
 在看网上题解的过程中，发现一位大神的关于回溯法的模板比较不错：
+
 vector<vector<int>> main(...){
     vector<vector<int>>res;  // Store the result, could be other container
     backtrack(res, ...);  // Recursion function to fill the res
